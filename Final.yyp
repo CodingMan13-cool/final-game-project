@@ -36,6 +36,7 @@
   "name":"Final",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_BG","path":"sprites/spr_BG/spr_BG.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
