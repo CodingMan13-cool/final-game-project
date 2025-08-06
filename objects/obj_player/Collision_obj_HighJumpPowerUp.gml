@@ -8,5 +8,5 @@ jump_speed = 20;
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 79C63262
-/// @DnDApplyTo : {obj_HighJumpPowerUp}
-with(obj_HighJumpPowerUp) instance_destroy();
+/// @DnDApplyTo : other
+with(other) instance_destroy();
